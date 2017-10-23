@@ -1,1 +1,22 @@
-l
+{
+  "name": "EasyCatalog",
+  "version": "1.0",
+  "description": "Write EasyCatalog calculated fields with snippets",
+  "homepage": "https://github.com/julux/atom-EasyCatalog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julux/atom-EasyCatalog"
+  },
+  "bugs": {
+    "url": "https://github.com/julux/atom-EasyCatalog"
+  },
+  "license": "MIT",
+  "keywords": [
+    "easycatalog",
+    "snippets",
+    "productivity"
+  ],
+  "engines": {
+    "atom": ">0.200.0"
+  }
+}
